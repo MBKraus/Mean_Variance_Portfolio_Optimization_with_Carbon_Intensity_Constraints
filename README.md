@@ -1,6 +1,6 @@
 # Single Period Mean-Variance Optimization (MVO, Markowitz) with scope 1+2 carbon intensity constraints
 
-## Python script for running a single period mean variance optimization (Markowitz, 1952) with a weighted portfolio scope 1+2 carbon intensity target on top of the "usual" long-only constraints and having the portfolio weights sum up to 1. Carbon intensity, or carbon emissions per dollar of revenue, adjusts for company size and is generally accepted to be a more accurate measurement of the efficiency of output rather than a portfolio's absolute carbon footprint.
+Python script for running a single period mean variance optimization (Markowitz, 1952) with a weighted portfolio scope 1+2 carbon intensity target on top of the "usual" long-only constraints and having the portfolio weights sum up to 1. Carbon intensity, or carbon emissions per dollar of revenue, adjusts for company size and is generally accepted to be a more accurate measurement of the efficiency of output rather than a portfolio's absolute carbon footprint.
 
 NB - Markowitz's Modern Portfolio Theory assumes (amongst others):
 
